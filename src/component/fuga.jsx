@@ -10,4 +10,4 @@ const Fuga = React.createClass({
     }
 });
 
-module.exports = Fuga;
+export default Fuga;

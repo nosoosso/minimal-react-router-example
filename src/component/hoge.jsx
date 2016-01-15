@@ -10,4 +10,4 @@ const Hoge = React.createClass({
     }
 });
 
-module.exports = Hoge;
+export default Hoge;
